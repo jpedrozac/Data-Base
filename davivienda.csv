@@ -1,0 +1,91 @@
+ENTIDAD;NOMBRE TIPO QUEJA;NOMBRE MOTIVO QUEJA;Total
+Davivienda;CDT;Revisión y/o Liquidación;352
+Davivienda;CDT;Inadecuado suministro de información en la vinculación;45
+Davivienda;CDT;Indebida atención al consumidor financiero-servicio;22
+Davivienda;CDT;Suplantación presunta de persona;4
+Davivienda;CDT;Fallas Red Oficina;4
+Davivienda;Crédito de consumo y/o comercial;Consignación errónea;8.611
+Davivienda;Crédito de consumo y/o comercial;Revisión y/o Liquidación;6.432
+Davivienda;Crédito de consumo y/o comercial;Inadecuado suministro de información en la vinculación;3.208
+Davivienda;Crédito de consumo y/o comercial;Suplantación presunta de persona;2.599
+Davivienda;Crédito de consumo y/o comercial;Reporte centrales de riesgos;1.066
+Davivienda;Crédito de consumo y/o comercial;Procedimientos y honorarios de cobranza;1.012
+Davivienda;Crédito de consumo y/o comercial;Reestructuración de créditos;129
+Davivienda;Crédito de consumo y/o comercial;Aspectos contractuales (Incumplimiento y/o modificación);55
+Davivienda;Crédito de consumo y/o comercial;Información sujeta a reserva;10
+Davivienda;Crédito de consumo y/o comercial;Garantías y levantamiento de gravámenes;8
+Davivienda;Crédito de vivienda;Revisión y/o Liquidación;2.140
+Davivienda;Crédito de vivienda;Inadecuado suministro de información en la vinculación;843
+Davivienda;Crédito de vivienda;Procedimientos y honorarios de cobranza;353
+Davivienda;Crédito de vivienda;Indebida atención al consumidor financiero-servicio;54
+Davivienda;Crédito de vivienda;Garantías y levantamiento de gravámenes;26
+Davivienda;Crédito de vivienda;Aspectos contractuales (Incumplimiento y/o modificación);14
+Davivienda;Crédito de vivienda;Información sujeta a reserva;4
+Davivienda;Crédito de vivienda;Suplantación presunta de persona;3
+Davivienda;Cuenta corriente;Descuentos injustificados;3.190
+Davivienda;Cuenta corriente;Fallas en Internet;348
+Davivienda;Cuenta corriente;Pagos a establecimientos de comercio (voucher-otros convenios);342
+Davivienda;Cuenta corriente;Fallas en cajero automático;328
+Davivienda;Cuenta corriente;Fallas en datáfono (Compras);122
+Davivienda;Cuenta corriente;Consignación errónea;102
+Davivienda;Cuenta corriente;Cobro servicios y/o comisiones;72
+Davivienda;Cuenta corriente;Reporte centrales de riesgos;31
+Davivienda;Cuenta corriente;Indebida atención al consumidor financiero-servicio;30
+Davivienda;Cuenta corriente;Aspectos contractuales (Incumplimiento y/o modificación);29
+Davivienda;Cuenta corriente;Fallas Red Oficina;28
+Davivienda;Cuenta corriente;Inadecuado suministro de información en la vinculación;12
+Davivienda;Cuenta corriente;Suplantación presunta de persona;12
+Davivienda;Cuenta corriente;No se remite información al cliente;10
+Davivienda;Cuenta corriente;Cheques (Devolución, negociación, otros);9
+Davivienda;Cuenta corriente;Información sujeta a reserva;5
+Davivienda;Cuenta corriente;Bloqueo (productos);2
+Davivienda;Cuenta de ahorros;Descuentos injustificados;46.535
+Davivienda;Cuenta de ahorros;Fallas en cajero automático;41.436
+Davivienda;Cuenta de ahorros;Fallas en dispositivos móviles (celulares - agenda);7.118
+Davivienda;Cuenta de ahorros;Convenios de pagos (servicios públicos, prestaciones, salud, etc..);6.777
+Davivienda;Cuenta de ahorros;Suplantación presunta de persona;3.423
+Davivienda;Cuenta de ahorros;Fallas en datáfono (Compras);2.749
+Davivienda;Cuenta de ahorros;Cobro servicios y/o comisiones;2.504
+Davivienda;Cuenta de ahorros;Consignación errónea;1.284
+Davivienda;Cuenta de ahorros;Fallas Red Oficina;863
+Davivienda;Cuenta de ahorros;Aspectos contractuales (Incumplimiento y/o modificación);552
+Davivienda;Cuenta de ahorros;Indebida atención al consumidor financiero-servicio;552
+Davivienda;Cuenta de ahorros;Inadecuado suministro de información en la vinculación;234
+Davivienda;Cuenta de ahorros;Reporte centrales de riesgos;110
+Davivienda;Cuenta de ahorros;Fallas en Internet;105
+Davivienda;Cuenta de ahorros;No se remite información al cliente;100
+Davivienda;Cuenta de ahorros;Información sujeta a reserva;70
+Davivienda;Cuenta de ahorros;Bloqueo (productos);57
+Davivienda;Cuenta de ahorros;Revisión y/o Liquidación;23
+Davivienda;Cuenta de ahorros;Negación a la apertura o solicitud del producto;14
+Davivienda;Leasing;No se remite información al cliente;58
+Davivienda;Leasing;Suministro de información insuficiente o errada;57
+Davivienda;Leasing;Revisión y/o Liquidación;38
+Davivienda;Leasing;Indebida atención al consumidor financiero-servicio;17
+Davivienda;Leasing;Inadecuado suministro de información en la vinculación;7
+Davivienda;Leasing;Procedimientos y honorarios de cobranza;4
+Davivienda;Leasing;Aspectos contractuales (Incumplimiento y/o modificación);4
+Davivienda;Leasing habitacional;Revisión y/o Liquidación;1.703
+Davivienda;Leasing habitacional;Indebida atención al consumidor financiero-servicio;35
+Davivienda;Leasing habitacional;Fallas Red Oficina;27
+Davivienda;Leasing habitacional;Aspectos contractuales (Incumplimiento y/o modificación);23
+Davivienda;Leasing habitacional;Consignación errónea;23
+Davivienda;Leasing habitacional;Garantías y levantamiento de gravámenes;5
+Davivienda;Leasing habitacional;Aspectos contractuales (Incumplimiento y/o modificación) - Víctimas;1
+Davivienda;Tarjetas de crédito;Descuentos injustificados;42.025
+Davivienda;Tarjetas de crédito;Revisión y/o Liquidación;11.712
+Davivienda;Tarjetas de crédito;Aspectos contractuales (Incumplimiento y/o modificación);7.490
+Davivienda;Tarjetas de crédito;Consignación errónea;3.182
+Davivienda;Tarjetas de crédito;Publicidad engañosa y/o premios ofrecidos;2.922
+Davivienda;Tarjetas de crédito;Suplantación presunta de persona;2.777
+Davivienda;Tarjetas de crédito;Fallas en cajero automático;2.744
+Davivienda;Tarjetas de crédito;Procedimientos y honorarios de cobranza;2.612
+Davivienda;Tarjetas de crédito;Inadecuado suministro de información en la vinculación;994
+Davivienda;Tarjetas de crédito;Indebida atención al consumidor financiero-servicio;370
+Davivienda;Tarjetas de crédito;Reporte centrales de riesgos;369
+Davivienda;Tarjetas de crédito;Fallas Red Oficina;340
+Davivienda;Tarjetas de crédito;No se remite información al cliente;199
+Davivienda;Tarjetas de crédito;Información sujeta a reserva;26
+;;;
+;;;
+;;;
